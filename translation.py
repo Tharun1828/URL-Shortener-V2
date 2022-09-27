@@ -46,7 +46,7 @@ Helpful commands:
 - /help: Sends this message; I'll tell you more about myself!
 - /batch -100xxx: To short or convert all posts of your channel
 
-If you have any bugs or questions on how to use me, have a look at my [website]({repo}), or contact to {owner}.
+If you have any bugs or questions on how to use me, contact to @Rapid_Bots.
 
 Available commands:
 
@@ -73,9 +73,9 @@ ABOUT_TEXT = """
     
 `📝 Language:` [Python 3](https://www.python.org/)
 `🧰 Framework:` [Pyrogram](https://github.com/pyrogram/pyrogram)
-`👨‍💻 Developer:` [Dev](t.me/ask_admin001)
-`📢 Support:` [Talk Bot](https://t.me/t2linkspromotion_bot)
-`🌐 Source Code:` [GitHub](https://github.com/T2links)
+`👨‍💻 Developer:` [Dev](https://t.me/Rapid_Bots)
+`📢 Support:` [Rapid Bot](https://t.me/Rapid_Bots)
+`🌐 Source Code:` [GitHub](https://t.me/Rapid_Bots)
 """
 
 

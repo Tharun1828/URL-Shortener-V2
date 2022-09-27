@@ -201,7 +201,7 @@ USER_ABOUT_MESSAGE = """
 
 MDISK_API_MESSAGE = """To add or update your Mdisk API, \n`/mdisk_api mdisk_api`
             
-Ex: `/mdisk_api 6LZq851sXoPHugiKQq`
+Ex: `/mdisk_api AODLgZXRaNcb2bWP3oeP`
             
 Others Mdisk Links will be automatically changed to the API of this Mdisk account
 
@@ -212,7 +212,7 @@ Current Mdisk API: `{}`"""
 SHORTENER_API_MESSAGE = """To add or update your Shortner Website API, 
 `/shortener_api [api]`
             
-Ex: `/shortener_api 6LZq851sXofffPHugiKQq`
+Ex: `/shortener_api da1759944c4843dc389a5eab49af08d01e19623d`
 
 Current Website: {base_site}
 
@@ -251,7 +251,7 @@ This image will be automatically replaced with other images in the post
 
 To remove custom image, `/banner_image remove`
 
-Eg: `/banner_image https://www.nicepng.com/png/detail/436-4369539_movie-logo-film.png`"""
+Eg: `/banner_image https://telegra.ph//file/c873c56517f210ce2b652.jpg`"""
 
 INCLUDE_DOMAIN_TEXT = """
 Use this option if you want to short only links from the following domains list.
